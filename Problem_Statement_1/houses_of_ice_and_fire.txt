@@ -1,0 +1,1339 @@
+HOUSES OF ICE AND FIRE
+Source  : https://anapioficeandfire.com/api/houses
+Total   : 444 houses
+────────────────────────────────────────────────────────────
+
+   1.  House Algood
+        Region : The Westerlands
+
+   2.  House Allyrion of Godsgrace
+        Region : Dorne
+
+   3.  House Amber
+        Region : The North
+
+   4.  House Ambrose
+        Region : The Reach
+
+   5.  House Appleton of Appleton
+        Region : The Reach
+
+   6.  House Arryn of Gulltown
+        Region : The Vale
+
+   7.  House Arryn of the Eyrie
+        Region : The Vale
+
+   8.  House Ashford of Ashford
+        Region : The Reach
+
+   9.  House Ashwood
+        Region : The North
+
+  10.  House Baelish of Harrenhal
+        Region : The Riverlands
+
+  11.  House Baelish of the Fingers
+        Region : The Vale
+
+  12.  House Ball
+        Region : The Reach
+
+  13.  House Banefort of Banefort
+        Region : The Westerlands
+
+  14.  House Bar Emmon of Sharp Point
+        Region : The Crownlands
+
+  15.  House Baratheon of Dragonstone
+        Region : The Crownlands
+
+  16.  House Baratheon of King's Landing
+        Region : The Crownlands
+
+  17.  House Baratheon of Storm's End
+        Region : The Stormlands
+
+  18.  House Beesbury of Honeyholt
+        Region : The Reach
+
+  19.  House Belmore of Strongsong
+        Region : The Vale
+
+  20.  House Bettley
+        Region : The Westerlands
+
+  21.  House Bigglestone
+        Region : The Riverlands
+
+  22.  House Blackbar of Bandallon
+        Region : The Reach
+
+  23.  House Blackfyre of King's Landing
+        Region : Unknown
+
+  24.  House Blackmont of Blackmont
+        Region : Dorne
+
+  25.  House Blackmyre
+        Region : The Neck
+
+  26.  House Blacktyde of Blacktyde
+        Region : Iron Islands
+
+  27.  House Blackwood of Raventree Hall
+        Region : The Riverlands
+
+  28.  House Blanetree
+        Region : The Riverlands
+
+  29.  House Blount
+        Region : The Crownlands
+
+  30.  House Boggs
+        Region : The North
+
+  31.  House Boggs of Crackclaw Point
+        Region : The Crownlands
+
+  32.  House Bole
+        Region : The North
+
+  33.  House Bolling
+        Region : The Stormlands
+
+  34.  House Bolton of the Dreadfort
+        Region : The North
+
+  35.  House Borrell of Sweetsister
+        Region : The Vale
+
+  36.  House Botley of Lordsport
+        Region : Iron Islands
+
+  37.  House Bracken of Stone Hedge
+        Region : The Riverlands
+
+  38.  House Branch
+        Region : The North
+
+  39.  House Branfield
+        Region : The North
+
+  40.  House Brax of Hornvale
+        Region : The Westerlands
+
+  41.  House Breakstone
+        Region : The Vale
+
+  42.  House Briar
+        Region : Dorne
+
+  43.  House Bridges
+        Region : The Reach
+
+  44.  House Brightstone
+        Region : The Vale
+
+  45.  House Brook
+        Region : Dorne
+
+  46.  House Broom
+        Region : The Westerlands
+
+  47.  House Brownhill
+        Region : Dorne
+
+  48.  House Brune of Brownhollow
+        Region : The Crownlands
+
+  49.  House Brune of the Dyre Den
+        Region : The Crownlands
+
+  50.  House Buckler of Bronzegate
+        Region : The Stormlands
+
+  51.  House Buckwell of the Antlers
+        Region : The Crownlands
+
+  52.  House Bulwer of Blackcrown
+        Region : The Reach
+
+  53.  House Burley
+        Region : The North
+
+  54.  House Bushy
+        Region : The Reach
+
+  55.  House Butterwell
+        Region : The Riverlands
+
+  56.  House Byrch
+        Region : The Crownlands
+
+  57.  House Bywater
+        Region : The Crownlands
+
+  58.  House Cafferen of Fawnton
+        Region : The Stormlands
+
+  59.  House Cargyll
+        Region : The Crownlands
+
+  60.  House Caron of Nightsong
+        Region : The Stormlands
+
+  61.  House Cassel
+        Region : The North
+
+  62.  House Casterly of Casterly Rock
+        Region : The Westerlands
+
+  63.  House Caswell of Bitterbridge
+        Region : The Reach
+
+  64.  House Cave
+        Region : The Crownlands
+
+  65.  House Celtigar of Claw Isle
+        Region : The Crownlands
+
+  66.  House Cerwyn of Cerwyn
+        Region : The North
+
+  67.  House Chambers
+        Region : The Riverlands
+
+  68.  House Charlton
+        Region : The Riverlands
+
+  69.  House Chelsted
+        Region : The Crownlands
+
+  70.  House Chester of Greenshield
+        Region : The Reach
+
+  71.  House Chyttering
+        Region : The Crownlands
+
+  72.  House Clegane
+        Region : The Westerlands
+
+  73.  House Clifton
+        Region : The Westerlands
+
+  74.  House Cockshaw
+        Region : The Reach
+
+  75.  House Codd
+        Region : Iron Islands
+
+  76.  House Coldwater of Coldwater Burn
+        Region : The Vale
+
+  77.  House Cole
+        Region : The Stormlands
+
+  78.  House Condon
+        Region : The North
+
+  79.  House Conklyn
+        Region : The Reach
+
+  80.  House Connington of Griffin's Roost
+        Region : The Stormlands
+
+  81.  House Corbray of Heart's Home
+        Region : Unknown
+
+  82.  House Cordwayner of Hammerhal
+        Region : The Reach
+
+  83.  House Costayne of Three Towers
+        Region : The Reach
+
+  84.  House Cox of Saltpans
+        Region : Unknown
+
+  85.  House Crabb
+        Region : The Crownlands
+
+  86.  House Crakehall of Crakehall
+        Region : The Westerlands
+
+  87.  House Crane of Red Lake
+        Region : The Reach
+
+  88.  House Cray
+        Region : The Neck
+
+  89.  House Cressey
+        Region : The Crownlands
+
+  90.  House Crowl of Deepdown
+        Region : The North
+
+  91.  House Cuy of Sunhouse
+        Region : The Reach
+
+  92.  House Dalt of Lemonwood
+        Region : Dorne
+
+  93.  House Dargood
+        Region : The Crownlands
+
+  94.  House Darke
+        Region : The Crownlands
+
+  95.  House Darklyn of Duskendale
+        Region : The Crownlands
+
+  96.  House Darkwood
+        Region : The Crownlands
+
+  97.  House Darry of Darry
+        Region : The Riverlands
+
+  98.  House Dayne of High Hermitage
+        Region : Dorne
+
+  99.  House Dayne of Starfall
+        Region : Dorne
+
+ 100.  House Deddings
+        Region : The Riverlands
+
+ 101.  House Doggett
+        Region : The Westerlands
+
+ 102.  House Dondarrion of Blackhaven
+        Region : The Stormlands
+
+ 103.  House Donniger
+        Region : The Vale
+
+ 104.  House Drinkwater
+        Region : Dorne
+
+ 105.  House Drox
+        Region : The Westerlands
+
+ 106.  House Drumm of Old Wyk
+        Region : Iron Islands
+
+ 107.  House Dryland
+        Region : Dorne
+
+ 108.  House Dunn
+        Region : The Reach
+
+ 109.  House Durrandon
+        Region : The Stormlands
+
+ 110.  House Durwell
+        Region : The Reach
+
+ 111.  House Dustin of Barrowton
+        Region : The North
+
+ 112.  House Edgerton
+        Region : The Crownlands
+
+ 113.  House Egen
+        Region : The Vale
+
+ 114.  House Elesham of the Paps
+        Region : The Vale
+
+ 115.  House Erenford
+        Region : The Riverlands
+
+ 116.  House Errol of Haystack Hall
+        Region : The Stormlands
+
+ 117.  House Estermont of Greenstone
+        Region : The Stormlands
+
+ 118.  House Estren of Wyndhall
+        Region : The Westerlands
+
+ 119.  House Falwell
+        Region : The Westerlands
+
+ 120.  House Farman of Faircastle
+        Region : The Westerlands
+
+ 121.  House Farring
+        Region : The Crownlands
+
+ 122.  House Farwynd of Sealskin Point
+        Region : Iron Islands
+
+ 123.  House Farwynd of the Lonely Light
+        Region : Iron Islands
+
+ 124.  House Fell of Felwood
+        Region : The Stormlands
+
+ 125.  House Fenn
+        Region : The Neck
+
+ 126.  House Ferren
+        Region : The Westerlands
+
+ 127.  House Fisher
+        Region : The Riverlands
+
+ 128.  House Fisher of the Stony Shore
+        Region : The North
+
+ 129.  House Flint  of the mountains
+        Region : The North
+
+ 130.  House Flint of Breakstone Hill
+        Region : The North
+
+ 131.  House Flint of Flint's Finger
+        Region : The North
+
+ 132.  House Flint of Widow's Watch
+        Region : The North
+
+ 133.  House Florent of Brightwater Keep
+        Region : The Reach
+
+ 134.  House Follard
+        Region : The Crownlands
+
+ 135.  House Foote
+        Region : The Westerlands
+
+ 136.  House Foote of Nightsong
+        Region : The Stormlands
+
+ 137.  House Footly of Tumbleton
+        Region : The Reach
+
+ 138.  House Forrester
+        Region : The North
+
+ 139.  House Fossoway of Cider Hall
+        Region : The Reach
+
+ 140.  House Fossoway of New Barrel
+        Region : The Reach
+
+ 141.  House Fowler of Skyreach
+        Region : Dorne
+
+ 142.  House Frey of Riverrun
+        Region : The Riverlands
+
+ 143.  House Frey of the Crossing
+        Region : The Riverlands
+
+ 144.  House Frost
+        Region : The North
+
+ 145.  House Gardener of Highgarden
+        Region : The Reach
+
+ 146.  House Gargalen of Salt Shore
+        Region : Dorne
+
+ 147.  House Garner
+        Region : The Westerlands
+
+ 148.  House Gaunt
+        Region : The Crownlands
+
+ 149.  House Glenmore
+        Region : The North
+
+ 150.  House Glover of Deepwood Motte
+        Region : The North
+
+ 151.  House Goodbrook
+        Region : The Riverlands
+
+ 152.  House Goodbrother of Corpse Lake
+        Region : Iron Islands
+
+ 153.  House Goodbrother of Crow Spike Keep
+        Region : Iron Islands
+
+ 154.  House Goodbrother of Downdelving
+        Region : Iron Islands
+
+ 155.  House Goodbrother of Hammerhorn
+        Region : Iron Islands
+
+ 156.  House Goodbrother of Orkmont
+        Region : Iron Islands
+
+ 157.  House Goodbrother of Shatterstone
+        Region : Iron Islands
+
+ 158.  House Gower
+        Region : The Stormlands
+
+ 159.  House Graceford of Holyhall
+        Region : The Reach
+
+ 160.  House Grafton of Gulltown
+        Region : The Vale
+
+ 161.  House Grandison of Grandview
+        Region : The Stormlands
+
+ 162.  House Graves
+        Region : The Reach
+
+ 163.  House Greenfield of Greenfield
+        Region : The Westerlands
+
+ 164.  House Greengood
+        Region : The Neck
+
+ 165.  House Greenwood
+        Region : The North
+
+ 166.  House Grell
+        Region : The Riverlands
+
+ 167.  House Grey
+        Region : The Riverlands
+
+ 168.  House Greyiron of Orkmont
+        Region : Iron Islands
+
+ 169.  House Greyjoy of Pyke
+        Region : Iron Islands
+
+ 170.  House Greystark of Wolf's Den
+        Region : The North
+
+ 171.  House Grimm of Greyshield
+        Region : The Reach
+
+ 172.  House Haigh
+        Region : The Riverlands
+
+ 173.  House Hamell
+        Region : The Westerlands
+
+ 174.  House Harclay
+        Region : The North
+
+ 175.  House Hardy
+        Region : The Crownlands
+
+ 176.  House Hardyng
+        Region : The Vale
+
+ 177.  House Harlaw of Grey Garden
+        Region : Iron Islands
+
+ 178.  House Harlaw of Harlaw
+        Region : Iron Islands
+
+ 179.  House Harlaw of Harlaw Hall
+        Region : Iron Islands
+
+ 180.  House Harlaw of Harridan Hill
+        Region : Iron Islands
+
+ 181.  House Harlaw of the Tower of Glimmering
+        Region : Iron Islands
+
+ 182.  House Harlton
+        Region : The Riverlands
+
+ 183.  House Harroway of Harrenhal
+        Region : The Riverlands
+
+ 184.  House Harte
+        Region : The Crownlands
+
+ 185.  House Hastwyck
+        Region : The Reach
+
+ 186.  House Hasty
+        Region : The Stormlands
+
+ 187.  House Hawick of Saltpans
+        Region : The Riverlands
+
+ 188.  House Hawthorne
+        Region : The Westerlands
+
+ 189.  House Hayford of Hayford
+        Region : The Crownlands
+
+ 190.  House Heddle
+        Region : The Riverlands
+
+ 191.  House Herston
+        Region : The Stormlands
+
+ 192.  House Hersy of Newkeep
+        Region : The Vale
+
+ 193.  House Hetherspoon
+        Region : The Westerlands
+
+ 194.  House Hewett of Oakenshield
+        Region : The Reach
+
+ 195.  House Hightower of the Hightower
+        Region : The Reach
+
+ 196.  House Hoare of Orkmont
+        Region : Iron Islands
+
+ 197.  House Hogg of Sow's Horn
+        Region : The Crownlands
+
+ 198.  House Hollard
+        Region : The Crownlands
+
+ 199.  House Holt
+        Region : Dorne
+
+ 200.  House Holt
+        Region : The North
+
+ 201.  House Hook
+        Region : The Riverlands
+
+ 202.  House Hornwood of Hornwood
+        Region : The North
+
+ 203.  House Horpe
+        Region : The Stormlands
+
+ 204.  House Hull
+        Region : Dorne
+
+ 205.  House Humble
+        Region : Iron Islands
+
+ 206.  House Hunt
+        Region : The Reach
+
+ 207.  House Hunter of Longbow Hall
+        Region : The Vale
+
+ 208.  House Hutcheson
+        Region : The Reach
+
+ 209.  House Inchfield
+        Region : The Reach
+
+ 210.  House Ironmaker
+        Region : Iron Islands
+
+ 211.  House Ironsmith
+        Region : The North
+
+ 212.  House Jast
+        Region : The Westerlands
+
+ 213.  House Jordayne of the Tor
+        Region : Dorne
+
+ 214.  House Justman
+        Region : The Riverlands
+
+ 215.  House Karstark of Karhold
+        Region : The North
+
+ 216.  House Keath
+        Region : The Riverlands
+
+ 217.  House Kellington
+        Region : The Stormlands
+
+ 218.  House Kenning of Harlaw
+        Region : Iron Islands
+
+ 219.  House Kenning of Kayce
+        Region : The Westerlands
+
+ 220.  House Kettleblack
+        Region : The Crownlands
+
+ 221.  House Kidwell of Ivy Hall
+        Region : The Reach
+
+ 222.  House Knott
+        Region : The North
+
+ 223.  House Kyndall
+        Region : The Westerlands
+
+ 224.  House Ladybright
+        Region : Dorne
+
+ 225.  House Lake
+        Region : Dorne
+
+ 226.  House Lake
+        Region : The North
+
+ 227.  House Langward
+        Region : The Crownlands
+
+ 228.  House Lannett
+        Region : The Westerlands
+
+ 229.  House Lannister of Casterly Rock
+        Region : The Westerlands
+
+ 230.  House Lannister of Darry
+        Region : The Riverlands
+
+ 231.  House Lannister of Lannisport
+        Region : The Westerlands
+
+ 232.  House Lanny
+        Region : The Westerlands
+
+ 233.  House Lantell
+        Region : The Westerlands
+
+ 234.  House Lefford of the Golden Tooth
+        Region : The Westerlands
+
+ 235.  House Leygood
+        Region : The Reach
+
+ 236.  House Liddle
+        Region : The North
+
+ 237.  House Lightfoot
+        Region : The North
+
+ 238.  House Lipps
+        Region : The Vale
+
+ 239.  House Locke of Oldcastle
+        Region : The North
+
+ 240.  House Lolliston
+        Region : The Riverlands
+
+ 241.  House Long
+        Region : The North
+
+ 242.  House Longthorpe of Longsister
+        Region : The Vale
+
+ 243.  House Longwaters
+        Region : The Crownlands
+
+ 244.  House Lonmouth
+        Region : The Stormlands
+
+ 245.  House Lorch
+        Region : The Westerlands
+
+ 246.  House Lothston of Harrenhal
+        Region : The Riverlands
+
+ 247.  House Lowther
+        Region : The Reach
+
+ 248.  House Lyberr
+        Region : The Reach
+
+ 249.  House Lychester
+        Region : The Riverlands
+
+ 250.  House Lydden of Deep Den
+        Region : The Westerlands
+
+ 251.  House Lynderly of the Snakewood
+        Region : The Vale
+
+ 252.  House Magnar of Kingshouse
+        Region : The North
+
+ 253.  House Mallery
+        Region : The Crownlands
+
+ 254.  House Mallister of Seagard
+        Region : The Riverlands
+
+ 255.  House Manderly of White Harbor
+        Region : The North
+
+ 256.  House Manning
+        Region : The Crownlands
+
+ 257.  House Manwoody of Kingsgrave
+        Region : Dorne
+
+ 258.  House Marbrand of Ashemark
+        Region : The Westerlands
+
+ 259.  House Marsh
+        Region : The North
+
+ 260.  House Massey of Stonedance
+        Region : The Crownlands
+
+ 261.  House Meadows of Grassy Vale
+        Region : The Reach
+
+ 262.  House Melcolm of Old Anchor
+        Region : The Vale
+
+ 263.  House Merlyn of Pebbleton
+        Region : Iron Islands
+
+ 264.  House Merryweather of Longtable
+        Region : The Reach
+
+ 265.  House Mertyns of Mistwood
+        Region : The Stormlands
+
+ 266.  House Middlebury
+        Region : The Reach
+
+ 267.  House Mollen
+        Region : The North
+
+ 268.  House Moore
+        Region : The Vale
+
+ 269.  House Mooton of Maidenpool
+        Region : The Riverlands
+
+ 270.  House Moreland
+        Region : The Westerlands
+
+ 271.  House Mormont of Bear Island
+        Region : The North
+
+ 272.  House Morrigen of Crow's Nest
+        Region : The Stormlands
+
+ 273.  House Moss
+        Region : The North
+
+ 274.  House Mudd of Oldstones
+        Region : The Riverlands
+
+ 275.  House Mullendore of Uplands
+        Region : The Reach
+
+ 276.  House Musgood
+        Region : The Stormlands
+
+ 277.  House Myatt
+        Region : The Westerlands
+
+ 278.  House Myre of Harlaw
+        Region : Iron Islands
+
+ 279.  House Nayland of Hag's Mire
+        Region : The Riverlands
+
+ 280.  House Netley
+        Region : Iron Islands
+
+ 281.  House Norcross
+        Region : The Reach
+
+ 282.  House Norrey
+        Region : The North
+
+ 283.  House Norridge
+        Region : The Reach
+
+ 284.  House Nutt
+        Region : The Riverlands
+
+ 285.  House Nymeros Martell of Sunspear
+        Region : Dorne
+
+ 286.  House Oakheart of Old Oak
+        Region : The Reach
+
+ 287.  House Oldflowers
+        Region : The Reach
+
+ 288.  House Orkwood of Orkmont
+        Region : Iron Islands
+
+ 289.  House Orme
+        Region : The Reach
+
+ 290.  House Osgrey of Leafy Lake
+        Region : The Reach
+
+ 291.  House Osgrey of Standfast
+        Region : The Reach
+
+ 292.  House Overton
+        Region : The North
+
+ 293.  House Paege
+        Region : The Riverlands
+
+ 294.  House Parren
+        Region : The Westerlands
+
+ 295.  House Payne
+        Region : The Westerlands
+
+ 296.  House Peake of Starpike
+        Region : The Reach
+
+ 297.  House Peasebury of Poddingfield
+        Region : The Stormlands
+
+ 298.  House Peat
+        Region : The Neck
+
+ 299.  House Peckledon
+        Region : The Westerlands
+
+ 300.  House Penrose of Parchments
+        Region : The Stormlands
+
+ 301.  House Perryn
+        Region : The Riverlands
+
+ 302.  House Piper of Pinkmaiden
+        Region : The Riverlands
+
+ 303.  House Plumm
+        Region : The Westerlands
+
+ 304.  House Pommingham
+        Region : The Reach
+
+ 305.  House Poole
+        Region : The North
+
+ 306.  House Prester of Feastfires
+        Region : The Westerlands
+
+ 307.  House Pryor of Pebble
+        Region : The Vale
+
+ 308.  House Pyle
+        Region : The Crownlands
+
+ 309.  House Pyne
+        Region : The Crownlands
+
+ 310.  House Qoherys of Harrenhal
+        Region : The Riverlands
+
+ 311.  House Qorgyle of Sandstone
+        Region : Dorne
+
+ 312.  House Quagg
+        Region : The Neck
+
+ 313.  House Rambton
+        Region : The Crownlands
+
+ 314.  House Redbeard
+        Region : Beyond the Wall
+
+ 315.  House Redding
+        Region : The Reach
+
+ 316.  House Redfort of Redfort
+        Region : The Vale
+
+ 317.  House Redwyne of the Arbor
+        Region : The Reach
+
+ 318.  House Reed of Greywater Watch
+        Region : The Neck
+
+ 319.  House Reyne of Castamere
+        Region : The Westerlands
+
+ 320.  House Rhysling
+        Region : The Reach
+
+ 321.  House Risley
+        Region : The Reach
+
+ 322.  House Rogers of Amberly
+        Region : The Stormlands
+
+ 323.  House Rollingford
+        Region : The Crownlands
+
+ 324.  House Roote of Lord Harroway's Town
+        Region : The Riverlands
+
+ 325.  House Rosby of Rosby
+        Region : The Crownlands
+
+ 326.  House Rowan of Goldengrove
+        Region : The Reach
+
+ 327.  House Roxton of the Ring
+        Region : The Reach
+
+ 328.  House Royce of Runestone
+        Region : The Vale
+
+ 329.  House Royce of the Gates of the Moon
+        Region : The Vale
+
+ 330.  House Ruthermont
+        Region : The Vale
+
+ 331.  House Ruttiger
+        Region : The Westerlands
+
+ 332.  House Ryder of the Rills
+        Region : The North
+
+ 333.  House Ryger of Willow Wood
+        Region : The Riverlands
+
+ 334.  House Rykker of Duskendale
+        Region : The Crownlands
+
+ 335.  House Ryswell of the Rills
+        Region : The North
+
+ 336.  House Saltcliffe of Saltcliffe
+        Region : Iron Islands
+
+ 337.  House Santagar of Spottswood
+        Region : Dorne
+
+ 338.  House Sarsfield of Sarsfield
+        Region : The Westerlands
+
+ 339.  House Sarwyck
+        Region : The Westerlands
+
+ 340.  House Seaworth of Cape Wrath
+        Region : The Stormlands
+
+ 341.  House Selmy of Harvest Hall
+        Region : The Stormlands
+
+ 342.  House Serrett of Silverhill
+        Region : The Westerlands
+
+ 343.  House Serry of Southshield
+        Region : The Reach
+
+ 344.  House Sharp
+        Region : Iron Islands
+
+ 345.  House Shawney
+        Region : The Riverlands
+
+ 346.  House Shell
+        Region : Dorne
+
+ 347.  House Shell
+        Region : The Vale
+
+ 348.  House Shepherd
+        Region : Iron Islands
+
+ 349.  House Shermer of Smithyton
+        Region : The Reach
+
+ 350.  House Shett of Gull Tower
+        Region : The Vale
+
+ 351.  House Shett of Gulltown
+        Region : The Vale
+
+ 352.  House Slate of Blackpool
+        Region : The North
+
+ 353.  House Sloane
+        Region : The Reach
+
+ 354.  House Slynt of Harrenhal
+        Region : None
+
+ 355.  House Smallwood of Acorn Hall
+        Region : The Riverlands
+
+ 356.  House Sparr of Great Wyk
+        Region : Iron Islands
+
+ 357.  House Spicer of Castamere
+        Region : The Westerlands
+
+ 358.  House Stackhouse
+        Region : The Reach
+
+ 359.  House Stackspear
+        Region : The Westerlands
+
+ 360.  House Staedmon of Broad Arch
+        Region : The Stormlands
+
+ 361.  House Stane of Driftwood Hall
+        Region : The North
+
+ 362.  House Stark of Winterfell
+        Region : The North
+
+ 363.  House Staunton of Rook's Rest
+        Region : The Crownlands
+
+ 364.  House Stokeworth of Stokeworth
+        Region : The Crownlands
+
+ 365.  House Stonehouse of Old Wyk
+        Region : Iron Islands
+
+ 366.  House Stonetree of Harlaw
+        Region : Iron Islands
+
+ 367.  House Stout of Goldgrass
+        Region : The North
+
+ 368.  House Strickland
+        Region : Unknown
+
+ 369.  House Strong of Harrenhal
+        Region : The Riverlands
+
+ 370.  House Sunderland of the Three Sisters
+        Region : The Vale
+
+ 371.  House Sunderly of Saltcliffe
+        Region : Iron Islands
+
+ 372.  House Sunglass of Sweetport Sound
+        Region : The Crownlands
+
+ 373.  House Swann of Stonehelm
+        Region : The Stormlands
+
+ 374.  House Swyft of Cornfield
+        Region : The Westerlands
+
+ 375.  House Swygert
+        Region : The Stormlands
+
+ 376.  House Tallhart of Torrhen's Square
+        Region : The North
+
+ 377.  House Tarbeck of Tarbeck Hall
+        Region : The Westerlands
+
+ 378.  House Targaryen of King's Landing
+        Region : The Crownlands
+
+ 379.  House Tarly of Horn Hill
+        Region : The Reach
+
+ 380.  House Tarth of Evenfall Hall
+        Region : The Stormlands
+
+ 381.  House Tawney of Orkmont
+        Region : Iron Islands
+
+ 382.  House Teague
+        Region : The Riverlands
+
+ 383.  House Templeton
+        Region : Unknown
+
+ 384.  House Terrick
+        Region : The Riverlands
+
+ 385.  House Thenn
+        Region : The North
+
+ 386.  House Thorne
+        Region : The Crownlands
+
+ 387.  House Toland of Ghost Hill
+        Region : Dorne
+
+ 388.  House Tollett of the Grey Glen
+        Region : The Vale
+
+ 389.  House Torrent of Littlesister
+        Region : The Vale
+
+ 390.  House Towers
+        Region : The North
+
+ 391.  House Towers of Harrenhal
+        Region : The Riverlands
+
+ 392.  House Toyne
+        Region : The Stormlands
+
+ 393.  House Trant of Gallowsgrey
+        Region : The Stormlands
+
+ 394.  House Tudbury
+        Region : The Stormlands
+
+ 395.  House Tully of Riverrun
+        Region : The Riverlands
+
+ 396.  House Turnberry
+        Region : The Westerlands
+
+ 397.  House Tyrell of Brightwater Keep
+        Region : The Reach
+
+ 398.  House Tyrell of Highgarden
+        Region : The Reach
+
+ 399.  House Uffering
+        Region : The Reach
+
+ 400.  House Uller of Hellholt
+        Region : Dorne
+
+ 401.  House Umber of the Last Hearth
+        Region : The North
+
+ 402.  House Upcliff
+        Region : The Vale
+
+ 403.  House Vaith of the Red Dunes
+        Region : Dorne
+
+ 404.  House Vance of Atranta
+        Region : The Riverlands
+
+ 405.  House Vance of Wayfarer's Rest
+        Region : The Riverlands
+
+ 406.  House Varner
+        Region : The Reach
+
+ 407.  House Velaryon of Driftmark
+        Region : The Crownlands
+
+ 408.  House Vikary
+        Region : The Westerlands
+
+ 409.  House Volmark
+        Region : Iron Islands
+
+ 410.  House Vypren
+        Region : Unknown
+
+ 411.  House Vyrwel of Darkdell
+        Region : The Reach
+
+ 412.  House Wade
+        Region : Dorne
+
+ 413.  House Wagstaff
+        Region : The Stormlands
+
+ 414.  House Waterman
+        Region : The North
+
+ 415.  House Waxley of Wickenden
+        Region : The Vale
+
+ 416.  House Wayn
+        Region : The Riverlands
+
+ 417.  House Waynwood of Ironoaks
+        Region : The Vale
+
+ 418.  House Weaver
+        Region : Iron Islands
+
+ 419.  House Webber of Coldmoat
+        Region : The Reach
+
+ 420.  House Wells
+        Region : Dorne
+
+ 421.  House Wells
+        Region : The North
+
+ 422.  House Wendwater
+        Region : The Crownlands
+
+ 423.  House Wensington
+        Region : The Stormlands
+
+ 424.  House Westbrook
+        Region : The Reach
+
+ 425.  House Westerling of the Crag
+        Region : The Westerlands
+
+ 426.  House Westford
+        Region : The Westerlands
+
+ 427.  House Whent of Harrenhal
+        Region : The Riverlands
+
+ 428.  House Whitehill
+        Region : The North
+
+ 429.  House Willum
+        Region : The Reach
+
+ 430.  House Wode
+        Region : The Riverlands
+
+ 431.  House Woodfoot of Bear Island
+        Region : The North
+
+ 432.  House Woods
+        Region : The North
+
+ 433.  House Woodwright
+        Region : The Reach
+
+ 434.  House Woolfield
+        Region : The North
+
+ 435.  House Wull
+        Region : The North
+
+ 436.  House Wydman
+        Region : The Vale
+
+ 437.  House Wyl of the Boneway
+        Region : Dorne
+
+ 438.  House Wylde of Rain House
+        Region : The Stormlands
+
+ 439.  House Wynch of Iron Holt
+        Region : Iron Islands
+
+ 440.  House Wythers
+        Region : The Reach
+
+ 441.  House Yarwyck
+        Region : The Westerlands
+
+ 442.  House Yelshire
+        Region : The Reach
+
+ 443.  House Yew
+        Region : The Westerlands
+
+ 444.  House Yronwood of Yronwood
+        Region : Dorne
+
+────────────────────────────────────────────────────────────
+END OF LIST  —  444 records written.
